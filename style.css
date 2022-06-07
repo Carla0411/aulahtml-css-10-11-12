@@ -1,4 +1,19 @@
-strong {color: red;}
-em {color:orange;}
-body{background: gray;
+strong {color: #CC2020;}
+em {color: #aa0202;}
+body{background: #FFCED1;
+}
+p {
+	text-aling: center;
+}
+
+h1 
+{text-align: center;
+border: 10px solid;
+}
+
+#missao{
+	font-size: 30px;
+}
+#banner{
+	width:100%;
 }
